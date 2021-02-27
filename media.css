@@ -1,0 +1,38 @@
+
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 18px;
+    
+
+ }
+
+ .inner-div h1{
+  
+    font-size: 16px;
+    margin-left: 10px;
+    justify-content: center;
+    width: 100%
+    margin:10px
+ }
+
+.inner-div{
+    width: 104vw;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem; 6rem;
+}
+  
+.inner-div h2{
+    font-size: 16px;
+   
+}
+
+.inner-div li{
+    font-size: 12px;
+    padding: 0; 20px;
+    
+}
+
+
